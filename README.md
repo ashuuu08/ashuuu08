@@ -12,12 +12,13 @@
 ## 🚀 About Me
 
 * 💻 **Aspiring Java Full Stack Developer** passionate about building scalable, high-performance web applications
-* 🎓 Final Year **B.Tech Student** in Computer Science at Bansal Institute of Science & Technology, Bhopal
+* 🎓 **B.Tech Graduate** in Computer Science from Bansal Institute of Science & Technology, Bhopal
 * 🌱 Currently mastering **Java, Spring Boot, React.js, System Design (LLD)**, and **Data Structures & Algorithms**
 * 💡 Love solving real-world problems through clean code and innovative solutions
 * 🎯 **Goal:** Secure a high-impact Full Stack Developer role at a fast-growing tech company
 * 🌍 Open to opportunities in **India, UK**, or **Remote**
-* 🔥 Built production-ready applications including login/registration systems, portfolios, and full-stack web apps
+* 🔥 Built production-ready applications including login/registration systems, e-commerce platforms, and full-stack web apps
+* 🌐 **Portfolio:** [itzashu08.netlify.app](https://itzashu08.netlify.app/)
 * 📫 Reach me at: **rajpootashishd@gmail.com**
 
 ---
@@ -27,7 +28,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/itzashu08?style=social)](https://github.com/itzashu08)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/itzashu08)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:rajpootashishd@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.netlify.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://itzashu08.netlify.app)
 
 ---
 
