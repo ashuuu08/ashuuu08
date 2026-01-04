@@ -32,21 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzashu08&show_icons=true&theme=radical&count_private=true" alt="Ashish's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzashu08&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzashu08&theme=radical" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🧰 Tech Stack & Tools
 
@@ -85,13 +70,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itzashu08&theme=gruvbox&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
 
 ## 🚧 Featured Projects
 
@@ -183,13 +161,7 @@ Government Higher Secondary School
 
 ---
 
-## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzashu08&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
 
 ## 📊 Coding Stats
 
