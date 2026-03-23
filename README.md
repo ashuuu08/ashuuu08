@@ -1,56 +1,63 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=250&section=header&text=Ashish%20Rathour&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=40&desc=⚡%20Full%20Stack%20Developer%20%7C%20Java%20•%20React%20•%20Node.js%20⚡&descAlignY=60&descAlign=50&descSize=17&stroke=0066cc&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1b2a,50:1b4332,100:0d1b2a&height=200&section=header&text=Ashish%20Rathour&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Engineer%20%E2%80%94%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React%20%C2%B7%20Node.js&descAlignY=75&descSize=16&descColor=64ffda"/>
 
-<!-- ANIMATED TYPING -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=👋+Hey+there!+I'm+Ashish+Rathour;💻+Building+Scalable+Production+Apps;☕+Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;🚀+2+Live+Projects+%7C+10%2B+Apps+Built;🟩+130%2B+GitHub+Contributions+Last+Year;🌍+Open+to+Remote+%7C+Hybrid+%7C+Relocation!)](https://git.io/typing-svg)
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1000&color=64FFDA&center=true&vCenter=true&width=680&lines=Production-grade+full-stack+engineer+with+2+live+apps+⚡;Strong+in+DSA+%7C+System+Design+%7C+SOLID+%7C+Design+Patterns;Spring+Boot+%7C+React+%7C+Node.js+%7C+PostgreSQL+%7C+Supabase;Open+to+SDE+roles+%E2%80%94+Remote+%2F+Hybrid+%2F+On-site)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ANIMATED BADGES ROW -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ashuuu08&color=0066cc&style=for-the-badge&label=PROFILE+VIEWS"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/ashuuu08?style=for-the-badge&color=brightgreen&labelColor=1a1a2e&label=FOLLOWERS&logo=github"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/🟩%20Contributions-130%2B%20Last%20Year-brightgreen?style=for-the-badge&labelColor=1a1a2e"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-</p>
+<a href="https://www.linkedin.com/in/itzashu08"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/ashuuu08"><img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://ashuuu08.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=vercel&logoColor=white"/></a>&nbsp;
+<a href="mailto:rajpootashishd@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="tel:+919691207533"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ashuuu08&color=64ffda&style=flat-square&label=Profile+Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/ashuuu08?style=flat-square&color=64ffda&labelColor=161b22&label=Followers&logo=github"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-64ffda?style=flat-square&logo=checkmarx&logoColor=white&labelColor=161b22"/>
 
 </div>
 
 ---
 
-<!-- ABOUT ME WITH ANIMATED GIF -->
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" height="200"/>
+## `$ whoami`
 
-## 👨‍💻 About Me
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230"/>
 
 ```java
-public class AshishRathour {
+class AshishRathour extends SoftwareEngineer {
 
-    String  name      = "Ashish Rathour";
-    String  role      = "Full Stack Developer";
-    String  location  = "Bhopal, MP, India 🇮🇳";
-    String  email     = "rajpootashishd@gmail.com";
-    String  portfolio = "ashuuu08.netlify.app";
+    final String  location  = "Bhopal → Raipur, India 🇮🇳";
+    final String  currently = "Web Developer @ Botivate, Raipur";
+    final String  target    = "SDE-1 / SDE-2 | Product & Platform Teams";
+    final String  email     = "rajpootashishd@gmail.com";
 
-    String[] currentWork = {
-        "Web Developer @ Botivate, Raipur 🏢",
-        "Checklist Delegation System ✅ LIVE",
-        "Mail Promotion Campaign System 📧"
+    final String[] coreStrengths = {
+        "System Design (LLD/HLD) & Design Patterns",
+        "SOLID Principles & Clean Architecture",
+        "Full-Stack: Spring Boot + React + Node.js",
+        "REST API design, JWT auth, Role-Based Access",
+        "Database modelling: MySQL, PostgreSQL, Supabase"
     };
 
-    String[] highlights = {
-        "130+ GitHub Contributions 🟩",
-        "10+ Projects Built 🚀",
-        "2 Deployed Live Apps 🔗",
-        "150+ DSA Problems Solved 💻"
-    };
+    final Map<String, String> numbers = Map.of(
+        "DSA Problems Solved",       "150+",
+        "GitHub Contributions/Year", "130+",
+        "Production Apps Live",      "2",
+        "Projects Shipped",          "10+"
+    );
 
-    String funFact = "I debug with ☕ & 🤖 AI tools!";
+    String motto() {
+        return "Write code that scales. Ship things that matter.";
+    }
 }
 ```
 
@@ -58,125 +65,156 @@ public class AshishRathour {
 
 ---
 
-## 🌐 Connect With Me
+## ⚙️ Core Engineering Competencies
+
+> *Beyond frameworks — the fundamentals that make code production-ready and interview-proof.*
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itzashu08)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashuuu08)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://ashuuu08.netlify.app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajpootashishd@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919691207533)
+| Domain | Skills & Concepts |
+|--------|------------------|
+| 🏗️ **System Design** | HLD / LLD · REST API design · Microservices concepts · Caching strategies · DB indexing & query optimisation |
+| 🧱 **Software Architecture** | SOLID Principles · DRY / KISS / YAGNI · Clean Architecture · MVC / Repository Pattern |
+| 🔐 **Security** | Spring Security · JWT Authentication · Role-Based Access Control (RBAC) · Supabase Row-Level Security |
+| 🗃️ **Databases** | Relational schema design · JPA/Hibernate ORM · Query optimisation · Supabase Realtime |
+| 🔄 **Design Patterns** | Singleton · Factory · Builder · Observer · Strategy · DAO Pattern |
+| 🧪 **Engineering Practices** | API versioning · Error-handling middleware · Git branching strategy · Agile / sprint delivery |
+| ⚡ **Performance** | Lazy loading · Code splitting · DB query tuning · Pagination & server-side filtering |
 
 </div>
 
 ---
 
-## 🧰 Tech Stack — Animated Icons
+## 📐 Project Impact & Metrics
+
+> *Quantified outcomes — because what gets measured gets respected.*
 
 <div align="center">
 
-### ⚙️ Backend & Frameworks
+| Project | Scale & Engineering Impact |
+|---------|--------------------------|
+| ✅ **Checklist Delegation System** *(Botivate — Live)* | Serving real business users daily · WhatsApp notifications delivered in **< 2s** · Supabase RLS enforcing **multi-tenant data isolation** · Zero data incidents post-deployment |
+| 📧 **Mail Promotion Campaign System** *(Botivate — In Progress)* | Bulk email scheduling across segmented lists · Template engine with **5+ pre-built layouts** · Per-campaign open-rate analytics pipeline |
+| 🎓 **Internship Management Platform** *(Personal — Live)* | Live Razorpay payment integration · QR-coded **PDF certificates** generated per user via Apache PDFBox · JWT + Spring Security protecting **3-role access hierarchy** |
+| 📚 **Education Material App** *(Personal — Live)* | Secure file upload & streaming · Admin / Student role separation · Subject-category indexing for fast retrieval |
+| 🛒 **E-Commerce Platform** *(Personal)* | Full order lifecycle (cart → checkout → invoice PDF) · Payment gateway · Admin inventory panel |
+| 💼 **Job Portal** *(Personal)* | Multi-param search (location / salary / experience) · Dual dashboards · Async email notifications on application events |
+
+</div>
+
+---
+
+## 🏢 Experience
+
+<table>
+<tr>
+<td width="55%">
+
+### Botivate — Web Developer
+**Jan 2026 – Present · Raipur, CG**
+> `Node.js` · `React` · `Supabase` · `PostgreSQL`
+
+- Maintaining and shipping features on a **live production platform** with real business users
+- Architected **Checklist Delegation System** — real-time task delegation, WhatsApp webhook alerts, Supabase RLS for multi-tenant isolation — **deployed and actively used**
+- Engineering **Mail Campaign System** — SMTP integration, template engine, audience segmentation, open-rate analytics
+
+</td>
+<td width="45%">
+
+### CypherBYTE — Web Developer Intern
+**May 2024 – Jun 2024 · Bhopal, MP**
+> `React` · `HTML5` · `CSS3` · `REST APIs`
+
+- Delivered **5+ responsive UIs** integrated with RESTful APIs for client projects
+- Reduced page load times through component-level code splitting and render optimisation
+- Shipped all client deliverables on schedule within an agile cross-functional team
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 DSA & Problem Solving
+
+> *Consistent algorithmic problem solver — built on CS fundamentals, not just framework knowledge.*
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/rajpootashishd?theme=dark&font=JetBrains%20Mono&ext=contest&border=0)](https://leetcode.com/rajpootashishd/)
+
+<br/>
+
+<a href="https://leetcode.com/rajpootashishd/"><img src="https://img.shields.io/badge/LeetCode-rajpootashishd-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/rajpootashishd/"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/></a>
+
+<br/>
+
+| Category | Topics Covered |
+|----------|---------------|
+| 📊 **Data Structures** | Arrays · Strings · Linked Lists · Stacks · Queues · Trees · Graphs · Heaps · Hash Maps |
+| 🔁 **Algorithms** | Sorting · Binary Search · Sliding Window · Two Pointers · Recursion · Backtracking |
+| ⚡ **Advanced Techniques** | Dynamic Programming · BFS / DFS · Greedy · Divide & Conquer |
+| 🎯 **Total Solved** | **150+ problems** across LeetCode & GeeksforGeeks |
+
+</div>
+
+---
+
+## 🔨 What I'm Building Now
+
+> *Updated March 2026 — real work, real stack, real deadlines.*
+
+<div align="center">
+
+| # | What | Status | Stack | Goal |
+|---|------|--------|-------|------|
+| 🔵 | **Mail Promotion Campaign System** | `In Progress` | `Node.js` `React` `Supabase` `PostgreSQL` | Ship to production at Botivate — SMTP integration, template engine & analytics pipeline |
+| 🟡 | **DSA Grind — Daily Problems** | `Ongoing` | `Java` `LeetCode` `GFG` | Strengthen Trees · Graphs · DP for SDE interviews |
+| 🟢 | **Checklist Delegation System** | `Live · Maintaining` | `Node.js` `React` `Supabase` | Bug fixes, feature requests & performance tuning from real users |
+| ⚪ | **Portfolio v2** | `Planned` | `React` `Tailwind` | Redesign with project case studies & measurable outcomes |
+
+</div>
+
+<div align="center">
+
+![Focus](https://img.shields.io/badge/Primary%20Focus-Botivate%20Mail%20System-64ffda?style=flat-square&labelColor=161b22)
+&nbsp;
+![Interview Prep](https://img.shields.io/badge/Parallel-SDE%20Interview%20Prep-FFA116?style=flat-square&labelColor=161b22)
+&nbsp;
+![Open To](https://img.shields.io/badge/Open%20To-SDE--1%20%2F%20SDE--2%20Roles-brightgreen?style=flat-square&labelColor=161b22)
+
+</div>
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+**Backend & Frameworks**
+
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,hibernate,maven&perline=5&theme=dark"/>
 
-### 🎨 Frontend
+**Frontend**
+
 <img src="https://skillicons.dev/icons?i=react,javascript,html,css&perline=4&theme=dark"/>
 
-### 🗄️ Databases & Cloud
+**Databases & Cloud**
+
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase&perline=4&theme=dark"/>
 
-### 🛠️ Tools & IDEs
+**DevOps & Tooling**
+
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,eclipse&perline=7&theme=dark"/>
 
-### 🤖 AI Tools I Use Daily
+**AI-Augmented Development**
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Cursor IDE](https://img.shields.io/badge/Cursor%20IDE-000000?style=for-the-badge&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-0066cc?style=for-the-badge&logoColor=white)
-
-</div>
-
----
-
-## 💼 Professional Experience
-
-<details open>
-<summary><b>🏢 Botivate — Web Developer &nbsp;|&nbsp; Jan 2026 – Present &nbsp;|&nbsp; Raipur, CG</b></summary>
-<br/>
-
-> 🔧 **IDE:** Eclipse &nbsp;|&nbsp; **Stack:** Node.js · React.js · Supabase · PostgreSQL
-
-| Task | Details |
-|------|---------|
-| 🔄 **Maintenance** | Resolving bugs and implementing feature enhancements on existing production app |
-| ✅ **Checklist Delegation System** | Real-time task delegation with WhatsApp notifications & Supabase backend — **DEPLOYED** |
-| 📧 **Mail Promotion Campaign System** | Email marketing platform with pre-designed templates, segmentation, scheduling & analytics |
-
-</details>
-
-<br/>
-
-<details open>
-<summary><b>🏢 CypherBYTE — Web Developer Intern &nbsp;|&nbsp; May 2024 – Jun 2024 &nbsp;|&nbsp; Bhopal, MP</b></summary>
-<br/>
-
-> **Stack:** React.js · HTML5 · CSS3 · JavaScript · REST APIs
-
-| Task | Details |
-|------|---------|
-| 🖥️ **UI Development** | Built 5+ responsive web interfaces integrated with RESTful APIs |
-| ⚡ **Performance** | Optimized component rendering and reduced page load times |
-| 🤝 **Agile Delivery** | Delivered client projects on time in a cross-functional team |
-
-</details>
-
----
-
-## 🚀 Featured Projects
-
-### 🆕 Latest — Built at Botivate
-
-<div align="center">
-
-| 🗂️ Project | 📝 Description | 🛠️ Stack | 🚦 |
-|------------|---------------|----------|----|
-| **⚡ Checklist Delegation System** | Real-time task delegation with WhatsApp alerts, live progress tracking, role-based access & Supabase row-level security | Node.js · React · Supabase · PostgreSQL | ✅ **Live** |
-| **📧 Mail Promotion Campaign System** | Email marketing platform with customizable pre-designed templates, audience segmentation, scheduling & open-rate analytics. Shared login with Internship Platform | Node.js · React · Supabase · PostgreSQL | 🔄 In Progress |
-
-</div>
-
----
-
-### 🎓 Personal Full-Stack Projects
-
-<div align="center">
-
-| 🗂️ Project | 📝 Description | 🛠️ Stack | 🔗 |
-|------------|---------------|----------|----|
-| **🎓 Internship Management Platform** | Razorpay payments, QR certificate generation (PDFBox), Spring Security JWT auth, role-based access, task management & admin dashboard | Spring Boot · React · MySQL · Hibernate · Spring Security | [🔗 Live](https://internmaker.vercel.app/) |
-| **📚 Education Material App** | Upload, organize & access study materials by subject/category. Role-based access, secure file storage, preview & download | React.js · Node.js · MySQL | [🔗 Live](https://gharhischool.vercel.app/) |
-| **🛒 E-Commerce Website** | Full shopping platform — catalog, cart, order tracking, invoice generation, payment gateway & admin inventory panel | Spring Boot · React · MySQL · Spring Security | — |
-| **💼 Job Portal** | Resume upload, advanced search by location/salary/experience, candidate & employer dashboards, email notifications | Spring Boot · React · PostgreSQL | — |
-
-</div>
-
----
-
-### 🎯 Mini Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🏫 **University Website** | Department pages, event listings & notice board | React · HTML · CSS |
-| 📅 **Event Planner** | Scheduling with reminders & calendar view | React · JavaScript |
-| 🌤️ **Weather App** | Real-time forecast via OpenWeather API | HTML · CSS · JS |
-| 🤖 **Virtual Assistant** | Voice-enabled browser assistant (Web Speech API) | JavaScript |
-| ✅ **To-Do App** | Task manager with filters & priority | HTML · CSS · JS |
-| 🎮 **Tic-Tac-Toe** | Two-player game with score tracking | HTML · CSS · JS |
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=github&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor%20IDE-000000?style=flat-square&logoColor=white)
 
 </div>
 
@@ -186,35 +224,30 @@ public class AshishRathour {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashuuu08&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=12&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuuu08&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ashuuu08&show_icons=true&theme=merko&count_private=true&hide_border=true&border_radius=8&include_all_commits=true&title_color=64ffda&icon_color=64ffda&text_color=cdd6f4&bg_color=0d1117" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuuu08&layout=compact&theme=merko&hide_border=true&border_radius=8&langs_count=8&title_color=64ffda&text_color=cdd6f4&bg_color=0d1117" width="40%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashuuu08&theme=merko&hide_border=true&border_radius=8&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&background=0d1117&dates=cdd6f4&sideLabels=64ffda" width="60%"/>
 
 </div>
 
+---
+
+## 🐍 Contribution Graph
+
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashuuu08&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" width="65%"/>
-
-</div>
-
-<!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
-<div align="center">
-
-### 🐍 Contribution Snake — Watch It Eat My Commits!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashuuu08/ashuuu08/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashuuu08/ashuuu08/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/ashuuu08/ashuuu08/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ashuuu08/ashuuu08/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </picture>
 
-> ⚙️ **To activate the snake:** Go to your GitHub repo `ashuuu08/ashuuu08` → Actions → Enable workflows → Add the snake workflow (see setup note below)
+<br/>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashuuu08&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Ashish's%20Contribution%20Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashuuu08&theme=merko&hide_border=true&area=true&radius=6&custom_title=Ashish's%20Contribution%20Activity&color=64ffda&line=64ffda&point=ffffff&bg_color=0d1117" width="90%"/>
 
 </div>
 
@@ -223,34 +256,25 @@ public class AshishRathour {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashuuu08&theme=tokyonight&margin-w=12&row=1&column=7&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🟩%20Contributions%20Last%20Year-130%2B-brightgreen?style=for-the-badge&labelColor=1a1a2e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/GitHub%20Activity-Active%20Contributor-0066cc?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=ashuuu08&theme=algolia&margin-w=10&row=1&column=7&no-frame=true"/>
 </div>
 
 ---
 
-## 🏅 Achievements
+## 🏅 By the Numbers
 
 <div align="center">
 
-| 🏆 | Achievement | Details |
-|----|-------------|---------|
-| 🟩 | **130+ Contributions** | Made in the last year on GitHub |
-| 💻 | **150+ DSA Problems** | Solved on LeetCode & GeeksforGeeks |
-| 🚀 | **10+ Projects Built** | 4 major full-stack + 6 mini/frontend |
-| ✅ | **Deployed Production App** | Checklist Delegation System — live at Botivate |
-| 🔗 | **2 Live Projects** | internmaker.vercel.app · gharhischool.vercel.app |
-| 🎓 | **Full Stack Certification** | Full Stack Web Development completed |
-| 🧠 | **System Design** | LLD, Design Patterns, SOLID Principles |
+| Metric | Value |
+|--------|-------|
+| 🟩 GitHub Contributions | **130+** in the last year |
+| 💻 DSA Problems Solved | **150+** across LeetCode & GFG |
+| 🚀 Projects Shipped | **10+** — 4 major full-stack · 6 mini/frontend |
+| ✅ Production Deployments | **2 live apps** — actively maintained |
+| 🔐 Auth Systems Built | JWT · Spring Security · Supabase RLS |
+| 💳 Payment Integrations | Razorpay — running in production |
+| 🧠 Engineering Depth | SOLID · LLD · Design Patterns · Clean Architecture |
+| 🎓 Degree | B.Tech CSE — BIST Bhopal · 2021–2025 |
 
 </div>
 
@@ -258,63 +282,39 @@ public class AshishRathour {
 
 ## 🎓 Education
 
-| 🎓 Degree | 🏫 Institution | 📅 Year |
-|-----------|---------------|--------|
-| **B.Tech — Computer Science** | Bansal Institute of Science & Technology, Bhopal | Sep 2021 – Jul 2025 |
+| Degree | Institution | Year |
+|--------|-------------|------|
+| **B.Tech — Computer Science & Engineering** | Bansal Institute of Science & Technology, Bhopal | 2021 – 2025 |
 | **10th & 12th** | Government Excellence Higher Secondary School | 2018 – 2021 |
 
 ---
 
-## 📈 Profile Summary Cards
-
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashuuu08&theme=tokyonight" width="95%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashuuu08&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashuuu08&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashuuu08&theme=tokyonight&utcOffset=5.5" width="32%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" width="70%"/>
 
 </div>
 
 ---
 
-## 💬 Random Dev Quote
-
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="75%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1b4332&height=130&section=footer&animation=fadeIn"/>
 
-</div>
-
----
-
-<!-- ANIMATED FOOTER -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=footer&animation=twinkling&fontSize=20"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=550&lines=Thanks+for+visiting!+⭐+Drop+a+star!;Let's+connect+%26+build+together!+🚀;Always+open+to+exciting+opportunities!+💼;rajpootashishd%40gmail.com+📧)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=1000&color=64FFDA&center=true&vCenter=true&width=520&lines=Thanks+for+reading+this+far.+That's+rare.+⭐;Let's+build+systems+that+scale.+Reach+out.;rajpootashishd%40gmail.com)](https://git.io/typing-svg)
 
 <br/>
 
-**💖 Built with passion, clean code & lots of ☕**
+**Engineered with precision. Shipped with purpose.**
 
-*⭐️ From [Ashish Rathour](https://github.com/ashuuu08) — Let's build something amazing together!*
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
+*[Ashish Rathour](https://github.com/ashuuu08) · Full Stack Engineer · Open to SDE opportunities*
 
 </div>
 
----
-
-<!-- SNAKE SETUP INSTRUCTIONS (hidden as comment, remove before pushing) -->
 <!--
-🐍 SNAKE SETUP — Do this once to activate the snake animation:
-1. Go to your GitHub profile repo: github.com/ashuuu08/ashuuu08
-2. Create folder: .github/workflows/
-3. Create file: snake.yml with this content:
-
+══════════════════════════════════════════════════════
+🐍 SNAKE ANIMATION — .github/workflows/snake.yml
+══════════════════════════════════════════════════════
 name: Generate Snake
 on:
   schedule:
@@ -336,4 +336,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
 -->
