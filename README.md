@@ -1,6 +1,9 @@
 we need same like that only redisgn that looks more good <div align="center">
 
 
+
+
+
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1b2a,50:1b4332,100:0d1b2a&height=200&section=header&text=Ashish%20Rathour&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Engineer%20%E2%80%94%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React%20%C2%B7%20Node.js&descAlignY=75&descSize=16&descColor=64ffda"/>
 
 </div>
